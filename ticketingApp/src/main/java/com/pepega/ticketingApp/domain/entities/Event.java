@@ -105,4 +105,5 @@ public class Event {
     return Objects.hash(id, name, start, end, venue, salesStart, salesEnd, status, createdAt,
         updatedAt);
   }
+
 }
